@@ -1,0 +1,4 @@
+37;  Pepito Perez;   M;  3.5;
+55;  Juanito Jaimes; M;  4.2;
+22;  Jose;           M;  5.0;
+72;  Maria;          F;  3.7;
